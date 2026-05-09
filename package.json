@@ -1,0 +1,9 @@
+{
+  "name": "bangalore-pincode-explorer",
+  "version": "1.0.0",
+  "description": "Root package.json for Railway deployment",
+  "scripts": {
+    "install": "cd server && npm install",
+    "start": "cd server && npm start"
+  }
+}
