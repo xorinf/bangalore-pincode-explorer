@@ -59,6 +59,7 @@ button:hover {
 
 .result-card {
   background-color: white;
+  color: #333;
   border: 1px solid #ccc;
   padding: 15px;
   border-radius: 5px;
