@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-const API_URL = 'http://localhost:5020/api';
+const API_URL = 'https://bangalore-pincode-explorer-production.up.railway.app/api';
 
 function App() {
   const [searchQuery, setSearchQuery] = useState('');
